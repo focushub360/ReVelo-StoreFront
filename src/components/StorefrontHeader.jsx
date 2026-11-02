@@ -1,4 +1,4 @@
-import logo from '../../../Frontend/src/assets/revelo-logo.png';
+import logo from '../assets/revelo-logo.png';
 
 export default function StorefrontHeader() {
   return (
